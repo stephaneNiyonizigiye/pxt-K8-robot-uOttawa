@@ -124,7 +124,7 @@ namespace motion {
     export function turnByAngle(direction: string, angle: number): void {
         // calibration: 90° ≈ 420 ms at speed 50
         const baseDelay = 420
-        let duration = baseDelay * (angle / 90) * (50 / 40)
+        let duration = baseDelay * (angle / 90) * (50 / 50)
 
         if (direction.toLowerCase() == "left") {
             turnLeft(50)
