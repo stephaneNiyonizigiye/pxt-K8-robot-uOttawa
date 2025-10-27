@@ -1,3 +1,10 @@
+
+!!Credit: The original code was found at **https://github.com/k8robotics/pxt-k8** and customized to fit some specific workshop requirements. 
+
+Original contributors : <img width="131" height="83" alt="image" src="https://github.com/user-attachments/assets/a4294520-d137-43b3-9987-7c7279810768" />
+
+Modified by Stephane Niyonizigiye
+
 # k8 Robotics Board
 
 This library provides functions to interface with the motors, sensors and other inputs & outputs that are part of the k8 Robotics Kit. More information at https://www.inksmith.co/k8-robotics-kit.  
