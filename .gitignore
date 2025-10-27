@@ -1,0 +1,37 @@
+# Node modules and build artifacts
+node_modules/
+built/
+dist/
+out/
+tmp/
+*.js
+*.map
+
+# MakeCode build outputs
+pxt_modules/
+pxtapp.json
+pxt.json.backup
+yotta_modules/
+yotta_targets/
+pxt.json.tmp
+
+# Logs and system files
+*.log
+*.DS_Store
+*.swp
+*.swo
+Thumbs.db
+
+# Backup and temp files
+*~
+*.bak
+*.tmp
+*.old
+
+# VS Code and editor configs
+.vscode/
+.idea/
+*.code-workspace
+
+# GitHub specific
+.DS_Store

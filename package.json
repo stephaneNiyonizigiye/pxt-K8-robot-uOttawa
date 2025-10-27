@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "docker": "^1.0.0",
+    "pxt-microbit": "^8.0.18"
+  }
+}
