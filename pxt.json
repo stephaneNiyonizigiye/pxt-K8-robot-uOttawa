@@ -1,6 +1,6 @@
 {
     "name": "k8-robot-uOttawa",
-    "version": "1.0.3",
+    "version": "1.0.1",
     "description": "k8 Robotics Kit",
     "license": "MIT",
     "dependencies": {
