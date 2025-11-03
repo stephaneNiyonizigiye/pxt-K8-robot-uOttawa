@@ -5,7 +5,7 @@ Original contributors : <img width="131" height="83" alt="image" src="https://gi
 
 Modified by Stephane Niyonizigiye
 
-# k8 Robotics Board
+# k8 Robotics Board - Beta
 
 This library provides functions to interface with the motors, sensors and other inputs & outputs that are part of the k8 Robotics Kit. More information at https://www.inksmith.co/k8-robotics-kit.  
 
